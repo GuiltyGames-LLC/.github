@@ -9,6 +9,7 @@ We’re a small but mighty indie studio creating bold, weird, and wildly fun gam
 ## 🕹️ Who We Are
 
 At **Guilty Games**, we:
+
 ✔️ Prototype bold and experimental concepts  
 ✔️ Embrace game jams and fast iterations  
 ✔️ Blend arcade action with cultural and spiritual themes  
